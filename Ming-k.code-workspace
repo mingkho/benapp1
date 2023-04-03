@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CapitalExpenditureApp"
+		},
+		{
+			"path": "../RequistionOrderApprovalApp"
+		}
+	],
+	"settings": {
+		"workbench.editorAssociations": {
+			"*.app": "default",
+			"*.global": "default",
+			"*.action": "default",
+			"*.extension": "default",
+			"*.page": "default",
+			"*.service": "default",
+			"*.cim": "default",
+			"*.rule": "default",
+			"*.properties": "default",
+			"*.fragment": "default"
+		}
+	}
+}
