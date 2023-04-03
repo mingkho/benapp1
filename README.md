@@ -1,4 +1,4 @@
-# Getting Started For Your Project
+# Getting Started For Their Project
 
 Welcome to your new project.
 
