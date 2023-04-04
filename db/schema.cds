@@ -21,6 +21,7 @@ entity Claims
     Provider : String(100);
     Amount : Decimal(12,2);
     Comment : String;
+    Approved: Boolean;
     ClaimReceipts : Association to many Receipts on ClaimReceipts.Claim = $self;
     ClaimTypes : Association to one ClaimTypes;
 }
